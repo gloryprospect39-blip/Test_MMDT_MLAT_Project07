@@ -42,8 +42,8 @@
 ---
 
 ## Section 4: Deployed and Presentation Information
-- **GitHub Repository URL:** https://github.com/MLAI401/TEST_MMDT051
-- **Video Presentation Link:** https://example.com/project-7-video
+- **GitHub Repository URL:** https://github.com/gloryprospect39-blip/Test_MMDT_MLAT_Project07
+- **Video Presentation Link:** https://drive.google.com/drive/folders/1uaPMZveDRk3ZznSX0SZNF4Tt3Xf-gz3t?usp=drive_link
 
 ---
 
